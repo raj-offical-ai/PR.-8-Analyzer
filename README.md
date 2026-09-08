@@ -1,17 +1,18 @@
-NumPy Analyzer
+**NumPy Analyzer**
 
 A menu-driven Python program built using NumPy that allows users to create arrays and perform various mathematical, array manipulation, searching, sorting, filtering, and statistical operations.
 
-📌 Features
+**📌 Features**
 
 The NumPy Analyzer provides the following features:
 
-1. Create a NumPy Array
+**1. Create a NumPy Array**
 Create 1D arrays
 Create 2D arrays
 Create 3D arrays
 Display the created array
-2. Mathematical Operations
+
+**2. Mathematical Operations**
 
 Perform different mathematical operations on arrays:
 
@@ -28,7 +29,8 @@ Split arrays into smaller arrays
 Search for a specific value
 Sort array elements row-wise
 Filter array values based on a condition
-5. Aggregates and Statistics
+
+**5. Aggregates and Statistics**
 
 Calculate different statistical values:
 
@@ -41,14 +43,16 @@ Minimum
 Maximum
 Percentiles
 Correlation Coefficient
-6. Exit
+
+**6. Exit**
 
 Exit the program with a thank-you message.
 
-🛠️ Technologies Used
-Python 3
-NumPy
-📂 Project Structure
+**🛠️ Technologies Used**
+**Python 3**
+**NumPy**
+
+**📂 Project Structure**
 NumPy-Analyzer/
 │
 ├── numpy_analyzer.py
@@ -57,13 +61,13 @@ NumPy-Analyzer/
 
 numpy_analyzer.py contains the main program, while README.md contains the project documentation.
 
-⚙️ Requirements
+**⚙️ Requirements**
 
 Make sure Python 3 is installed on your system.
 
 You also need to install NumPy.
 
-Install NumPy
+**Install NumPy**
 pip install numpy
 
 
@@ -71,7 +75,7 @@ If you are using Python 3 and pip does not work, try:
 
 pip3 install numpy
 
-▶️ How to Run
+**▶️ How to Run**
 
 Clone or download the project and open the project directory in the terminal.
 
@@ -84,7 +88,7 @@ Or:
 
 python3 numpy_analyzer.py
 
-🖥️ Main Menu
+**🖥️ Main Menu**
 
 When the program starts, the following menu is displayed:
 
@@ -103,8 +107,8 @@ Choose an option:
 
 The user can select an option according to the required operation.
 
-📊 Example
-Creating a 2D Array
+**📊 Example**
+**Creating a 2D Array**
 
 Input:
 
@@ -118,14 +122,14 @@ Array created successfully:
 [[10 20 50]
  [30 60 40]]
 
-Slicing
+**Slicing**
 
 Example sliced array:
 
 [[20 50]
  [60 40]]
 
-Addition
+**Addition**
 
 Original Array:
 
@@ -144,7 +148,7 @@ Result:
 [[15 25 55]
  [35 65 45]]
 
-Combining Arrays
+**Combining Arrays**
 
 Original Array:
 
@@ -165,7 +169,7 @@ Combined Array:
  [ 1  2  3]
  [ 4  5  6]]
 
-Sorting
+**Sorting**
 
 Original Array:
 
@@ -181,7 +185,7 @@ Sorted Array:
 
 Sorting is applied row-wise.
 
-Median
+**Median**
 
 For the array:
 
@@ -193,7 +197,7 @@ The median is:
 
 35.0
 
-🎯 Objective
+**🎯 Objective**
 
 The main objective of this project is to provide a simple, interactive way to understand and practice NumPy array operations in Python.
 
@@ -208,7 +212,7 @@ Searching
 Sorting
 Filtering
 Statistical calculations
-📚 NumPy Concepts Demonstrated
+**📚 NumPy Concepts Demonstrated**
 
 This project makes use of common NumPy functions and concepts such as:
 
@@ -233,7 +237,7 @@ np.max()
 np.percentile()
 np.corrcoef()
 
-🚀 Future Improvements
+**🚀 Future Improvements**
 
 The project can be extended with additional features such as:
 
@@ -247,10 +251,10 @@ Saving arrays to files
 Loading arrays from files
 Graphical User Interface (GUI)
 Better error handling
-👨‍💻 Author
+**👨‍💻 Author**
 
 Your Name
 
-📄 License
+**📄 License**
 
 This project is created for educational and learning purposes.# PR.-8-Analyzer
