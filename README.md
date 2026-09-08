@@ -253,7 +253,7 @@ Graphical User Interface (GUI)
 Better error handling
 **👨‍💻 Author**
 
-Your Name
+**Raj Dabhade**
 
 **📄 License**
 
